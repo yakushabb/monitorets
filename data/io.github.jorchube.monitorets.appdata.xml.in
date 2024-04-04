@@ -6,6 +6,9 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
   <developer_name translate="no">Jordi Chulia</developer_name>
+  <developer id="io.github.jorchube">
+    <name translate="no">Jordi Chulia</name>
+  </developer>
   <url type="homepage">https://github.com/jorchube/monitorets/</url>
   <url type="bugtracker">https://github.com/jorchube/monitorets/issues</url>
   <url type="translate">https://github.com/jorchube/monitorets/po/</url>
