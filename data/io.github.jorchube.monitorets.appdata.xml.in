@@ -55,7 +55,7 @@
   </screenshots>
 
   <launchable type="desktop-id">io.github.jorchube.monitorets.desktop</launchable>
-
+  <translation type="gettext">monitorets</translation>
   <provides>
     <binary>monitorets</binary>
   </provides>
